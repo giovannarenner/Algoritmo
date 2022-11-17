@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(252, 193, 178);
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+.botao{
+    font-size: 25px;
+    color: brown;
+}
+.inputn{
+font-size: 30px;
+color: brown;
+
+}
